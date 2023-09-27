@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266643695955",
+    "project_id": "frbsphone",
+    "storage_bucket": "frbsphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266643695955:android:3a04361eb137b93e2619a6",
+        "android_client_info": {
+          "package_name": "com.example.frbsphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYXwpKGzNEDxRWfUEuexsvJdXV2NXmos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
